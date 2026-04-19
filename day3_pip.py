@@ -1,0 +1,8 @@
+print("Modules")
+print("Internal Modules also called built in modules")
+print("External Modules also called manually installed modules")
+print("To install external modules we use pip")
+print("Command to install pip is")
+print("pip install module_name")
+print("Installing modules in linux or mac is")
+print("pip3 install module_name")
