@@ -15,4 +15,12 @@ print("sklearn is for machine learning")
 print("pandas is for data analysis")
 print("module are code libaries which are pre written and we can use them in our code")
 print("built in modules in python")
+
+print("To install it in a application we use")
+print("To install module we use python -m pip install module_name")
+print("For now python -m pip install pyjokes is used")
+print("To update python -m pip install --upgrade pyjokes")
+print("To uninstall python -m pip uninstall pyjokes")
+print("The meaning of -m is to run the module as a script")
+
 import hashlib
