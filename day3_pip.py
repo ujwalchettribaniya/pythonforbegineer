@@ -13,3 +13,6 @@ print("pip install scikit-learn to install scikit-learn module")
 print("pip install --upgrade scikit-learn to upgrade scikit-learn module")
 print("sklearn is for machine learning")
 print("pandas is for data analysis")
+print("module are code libaries which are pre written and we can use them in our code")
+print("built in modules in python")
+import hashlib
