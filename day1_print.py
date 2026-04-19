@@ -18,3 +18,8 @@ print("for exisiting file")
 print("git remote add origin https://github.com/ujwalchettribaniya/pythonforbegineers.git")
 print("git branch -M main")
 print("git push -u origin main")
+
+print("git status")
+print("git add .  or git add <filename> ")
+print("git commit -m double quote(Your update message here).")
+print("git push origin main")
