@@ -1,0 +1,8 @@
+print("Day 2")
+print("In day 2 there are roadmap rather then logical coding")
+print("The Project which is available with .py are")
+print("Jarvis AI Voice Chat <Predefined>")
+print("Love Calculator")
+print("Flappy Bird")
+print("Snake .py game")
+print("Face Scanner with jpg")
